@@ -19,5 +19,3 @@ int main()
 - [ ] This item is not complete
 
 ![Image of Earth](https://www.nasa.gov/sites/default/files/1-bluemarble_west.jpg)
-
-<img src="https://www.nasa.gov/sites/default/files/1-bluemarble_west.jpg" width=20% height=20%>
