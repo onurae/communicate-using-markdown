@@ -14,6 +14,9 @@ int main()
 }
 ```
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 ![Image of Earth](https://www.nasa.gov/sites/default/files/1-bluemarble_west.jpg)
 
