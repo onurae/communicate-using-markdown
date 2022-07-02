@@ -235,7 +235,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=X>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
